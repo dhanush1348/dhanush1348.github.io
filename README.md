@@ -1,47 +1,55 @@
-# dhanush1348.github.io
+# 🌾 Agricultural Tools Rental Platform
 
-# 🌾 Village Agricultural Tools Rental Platform
+A responsive web-based platform that allows farmers and agricultural workers to rent essential tools with ease.  
+Built using **HTML**, **CSS**, and **JavaScript**, and deployed using **GitHub Pages**.
 
-A community-based rental platform designed to make **agricultural tools** easily accessible for farmers in rural areas.  
-This website allows farmers and villagers to **list, search, and book farming equipment** at affordable rates.
+---
 
-## 🌐 Live Website
-[https://dhanush1348.github.io](https://dhanush1348.github.io)
+## 🚀 Live Demo
+[**View Website Here**](https://dhanush1348.github.io)
+
+---
 
 ## 📌 Features
-- 🛠️ **List Agricultural Tools** for rent (e.g., tractors, tillers, harvesters, water pumps).
-- 📅 **Easy Booking** system for farmers to reserve tools in advance.
-- 📱 Mobile-friendly design for village-level internet access.
-- 🔍 Search and filter tools by category, price, or location.
-- 📞 Contact details for quick offline communication.
+- 📱 **Mobile-Friendly** – Works seamlessly on any device.
+- 🛠 **Tool Listings** – Browse available agricultural tools for rent.
+- 📅 **Booking System UI** – Select dates for rental (frontend demo).
+- 🖼 **Attractive UI** – Designed for simplicity and usability.
+- ⚡ **Fast Deployment** – Hosted on GitHub Pages.
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages (for hosting)
+---
 
-## 🚀 How to Run Locally
+## 🛠 Tech Stack
+- **HTML5** – Page structure  
+- **CSS3** – Styling and layout  
+- **JavaScript (Vanilla)** – Interactive elements  
+- **GitHub Pages** – Hosting  
+
+---
+
+## 📂 Project Structure
+📁 Agricultural-Tools-Rental
+├── index.html # Main homepage
+├── style.css # Styling
+├── script.js # Interactivity
+├── images/ # Tool images & icons
+└── README.md # Project info
+
+
+---
+
+## 📦 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhanush1348/dhanush1348.github.io.git
-   
-2. Open the project folder.
-3. Open index.html in your browser.
+   git clone https://github.com/dhanush1348/agricultural-tools-rental.git
+2. Open index.html in your browser.
 
-## 📤 How to Deploy on GitHub Pages
-1. Create a GitHub repo named <yourusername>.github.io
-   (Already created as dhanush1348.github.io)
-2. Clone the repo locally:
-    ```bash
-   git clone https://github.com/dhanush1348/dhanush1348.github.io.git
-3. Copy your website files into the repo folder.
-4. Commit and push changes:
-   ```bash
-   git add .
-   git commit -m "Initial website commit"
-   git push origin main
-5. Go to Settings → Pages in your repo.
-6. Under Branch, select main and root folder /.
-7. Save and wait a few minutes.
-8. Visit https://dhanush1348.github.io to view your
+🌟 Contributing
+Pull  requests are welcome! Please fork this repo and make changes.
+
+📄 License
+This project is licensed under the MIT License.
+
+
+--
+-👨‍💻 Developed by Dhanush Reddy
